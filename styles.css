@@ -100,3 +100,10 @@ body{
     letter-spacing: 0.2px;
 }
 
+/* Desktop view */
+@media (min-width: 37.5rem){
+    .card{
+        max-width: 320px;
+    }
+    
+}
