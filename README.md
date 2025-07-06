@@ -26,8 +26,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [QR Code Component Github Solution](https://github.com/bjax20/Frontend-Mentor---QR-code-component)
+- Live Site URL: [QR Code Component Live URL](https://frontend-mentor-qr-code-component-murex.vercel.app/)
 
 ## My process
 
@@ -54,6 +54,6 @@ I want to be comfortable with using overflow, determining the width, and maximiz
 
 ## Author
 
-- Website - [Bill Jerson](https://www.your-site.com)
+- Website - [Bill Jerson](billdev.online)
 - Frontend Mentor - [@bjax20](https://www.frontendmentor.io/profile/bjax20)
 
